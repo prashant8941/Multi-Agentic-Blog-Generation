@@ -117,3 +117,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Acknowledgements
 
 We'd like to extend our gratitude to all individuals and organizations who have played a role in the development and success of this project. Your support, whether through contributions, inspiration, or encouragement, has been invaluable. Thank you for being a part of our journey.
+all the info are added 
